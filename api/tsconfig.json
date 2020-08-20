@@ -1,0 +1,17 @@
+{
+    "compilerOptions": {
+        "experimentalDecorators": true,
+        "emitDecoratorMetadata": true,
+        "resolveJsonModule": true,
+        "jsx": "react",
+        "esModuleInterop": true
+    },
+    "include": [
+        "server/**/*.ts",
+        "server/**/*.tsx",
+    ],
+    "exclude": [
+        "node_modules",
+        ".vscode",
+    ]
+}
