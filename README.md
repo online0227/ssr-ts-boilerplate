@@ -1,7 +1,7 @@
 # ssr-ts-boilerplate
 
 Features:
-- 100% Typescript
+- 100% Typescript (except json and css files)
 - Separated API server
 - Following object-oriented programming principle (backend)
 - MVC, Singleton pattern implemented (backend)
